@@ -1,0 +1,15 @@
+The Dark Side of the Moon;1973;42;1
+Thriller;1982;42;0
+Back in Black;1980;41;1
+Rumours;1977;39;1
+The Wall;1979;81;0
+Led Zeppelin IV;1971;42;1
+Abbey Road;1969;47;1
+Nevermind;1991;49;0
+Hotel California;1976;43;1
+Born to Run;1975;39;1
+Purple Rain;1984;43;0
+Appetite for Destruction;1987;53;1
+OK Computer;1997;53;1
+The Joshua Tree;1987;50;1
+A Night at the Opera;1975;43;0
